@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6fe0767e","path":"/extending-taskiq/resutl-backend.html","title":"Result backend","lang":"en-US","frontmatter":{"order":3},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.64,"words":192},"filePathRelative":"extending-taskiq/resutl-backend.md"}');export{e as data};

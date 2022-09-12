@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0c050bfd","path":"/extending-taskiq/cli.html","title":"CLI","lang":"en-US","frontmatter":{"order":4},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.67,"words":200},"filePathRelative":"extending-taskiq/cli.md"}');export{e as data};

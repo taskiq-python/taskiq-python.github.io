@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-12981c44","path":"/extending-taskiq/","title":"Extending taskiq","lang":"en-US","frontmatter":{"dir":{"order":2}},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.12,"words":35},"filePathRelative":"extending-taskiq/README.md"}');export{e as data};

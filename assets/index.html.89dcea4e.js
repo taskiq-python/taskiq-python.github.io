@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-12981c44","path":"/extending-taskiq/","title":"Extending taskiq","lang":"en-US","frontmatter":{"dir":{"order":2}},"excerpt":"","headers":[{"level":2,"title":"Contents:","slug":"contents","link":"#contents","children":[]}],"git":{},"readingTime":{"minutes":0.18,"words":55},"filePathRelative":"extending-taskiq/README.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-852e245a","path":"/extending-taskiq/schedule-sources.html","title":"Schedule source","lang":"en-US","frontmatter":{"order":5},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.14,"words":41},"filePathRelative":"extending-taskiq/schedule-sources.md"}');export{e as data};

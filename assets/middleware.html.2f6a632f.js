@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-139225c3","path":"/extending-taskiq/middleware.html","title":"Middlewares","lang":"en-US","frontmatter":{"order":2},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.36,"words":108},"filePathRelative":"extending-taskiq/middleware.md"}');export{e as data};

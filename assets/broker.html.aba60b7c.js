@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-78d019dc","path":"/extending-taskiq/broker.html","title":"Brokers","lang":"en-US","frontmatter":{"order":1},"excerpt":"","headers":[{"level":2,"title":"Conventions","slug":"conventions","link":"#conventions","children":[]}],"git":{},"readingTime":{"minutes":0.44,"words":131},"filePathRelative":"extending-taskiq/broker.md"}');export{e as data};

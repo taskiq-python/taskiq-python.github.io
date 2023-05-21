@@ -1,2 +1,0 @@
-import{_ as a,W as e,X as n,Y as t}from"./framework-324439bb.js";const s={},i=t(`<h2 id="installation" tabindex="-1"><a class="header-anchor" href="#installation" aria-hidden="true">#</a> Installation</h2><p>You can install taskiq with pip or your favorite dependency manager:</p><div class="language-bash" data-ext="sh"><pre class="language-bash"><code>pip <span class="token function">install</span> taskiq
-</code></pre></div>`,3),o=[i];function c(l,r){return e(),n("div",null,o)}const _=a(s,[["render",c],["__file","index.html.vue"]]);export{_ as default};
